@@ -1,5 +1,3 @@
----
-
 # Harmonic-Pulse: Native Audio Signal Analyzer
 
 ## 🎵 Project Overview
