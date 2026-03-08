@@ -3,4 +3,4 @@ project(audio_analyzer)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(audio_analyzer main.cpp)
+add_executable(audio_analyzer src/cli/main.cpp)
